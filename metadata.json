@@ -1,0 +1,6 @@
+{
+  "name": "ApkCraft",
+  "description": "Import Android app zip sources, compile into real downloadable APKs, and test interactively in an in-app device simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
